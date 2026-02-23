@@ -1,0 +1,6 @@
+G:\repogitory\hm_alibaba_qwen_web\HmAlibaraQwenWeb\obj\Release\HmAlibaraQwenWeb.csproj.AssemblyReference.cache
+G:\repogitory\hm_alibaba_qwen_web\HmAlibaraQwenWeb\obj\Release\HmAlibaraQwenWeb.csproj.CoreCompileInputs.cache
+G:\repogitory\hm_alibaba_qwen_web\HmAlibaraQwenWeb\bin\Release\HmAlibaraQwenWeb.dll
+G:\repogitory\hm_alibaba_qwen_web\HmAlibaraQwenWeb\bin\Release\HmAlibaraQwenWeb.pdb
+G:\repogitory\hm_alibaba_qwen_web\HmAlibaraQwenWeb\obj\Release\HmAlibaraQwenWeb.dll
+G:\repogitory\hm_alibaba_qwen_web\HmAlibaraQwenWeb\obj\Release\HmAlibaraQwenWeb.pdb
