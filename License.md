@@ -1,4 +1,4 @@
-Copyright (c) 2025 Akitsugu Komiyama
+Copyright (c) 2026 Akitsugu Komiyama
 
 The MIT License (MIT)
 
