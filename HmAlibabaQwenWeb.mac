@@ -1,7 +1,7 @@
 ﻿/*
- * HmAlibabaQwenWeb v 2.0.0.1
+ * HmAlibabaQwenWeb v 2.0.2.1
  *
- * Copyright (c) 2025 Akitsugu Komiyama
+ * Copyright (c) 2025-2026 Akitsugu Komiyama
  * under the MIT License
  */
 
@@ -33,10 +33,6 @@ const currentMacroDirectory = currentmacrodirectory();
 
 const script = hidemaru.loadTextFile(currentMacroDirectory + "\\HmConvAIWeb.js");
 eval(script);
-
-function useInputTransfer() {
-    return true;
-}
 
 function onPrevKeySendDecorator() {
     try {
